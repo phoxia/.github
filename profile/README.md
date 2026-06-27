@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/banner.png" alt="Phoxia" width="100%" />
+  <img src="https://raw.githubusercontent.com/phoxia/.github/refs/heads/main/assets/banner.png" alt="Phoxia" width="100%" />
 </p>
 
 <h3 align="center">Software can be fair.</h3>
@@ -49,7 +49,7 @@ All projects welcome contributions under AGPLv3. Follow along on [GitHub](https:
 ---
 
 <p align="center">
-  <img src="https://phoxia.org/brand/symbol.png" alt="Phoxia" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/phoxia/.github/refs/heads/main/assets/avatar.png" alt="Phoxia" width="32" height="32" />
   <br/>
   <sub>Light emerges when devs come together.</sub>
 </p>
